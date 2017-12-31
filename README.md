@@ -1,6 +1,6 @@
-# DH matrix calulator
+# DH matrix calculator
 
-This repo is for a python module made for calulating the DH matrix of a robot given it's dh paramters.
+This repo is for a python module made for calculating the DH matrix of a robot given it's dh parameters.
 
 ## Dependencies
     * [Sympy](http://www.sympy.org/en/index.html) 
@@ -8,6 +8,7 @@ This repo is for a python module made for calulating the DH matrix of a robot gi
     * [Tqdm](https://pypi.python.org/pypi/tqdm)
 
 ## How to use?
-Just Copy dh.py in your working directory.
+Just copy dh.py in your working directory.
 ## Example
 Check dh_example.ipynb for an example.
+
